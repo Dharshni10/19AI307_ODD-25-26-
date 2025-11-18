@@ -49,4 +49,4 @@ public class Main{
 <img width="1010" height="296" alt="image" src="https://github.com/user-attachments/assets/edac3de5-cc5e-4bf5-bea0-3a3401f392bd" />
 
 ## RESULT:
-Thus the Java program that does post-decrement and pre-decrement operators are executed successfully.
+Thus, the Java program that does post-decrement and pre-decrement operators are executed successfully.
