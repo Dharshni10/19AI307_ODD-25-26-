@@ -65,4 +65,4 @@ public class prog {
 <img width="408" height="198" alt="image" src="https://github.com/user-attachments/assets/74151bd1-eab7-4bea-b8cd-384196a91ad6" />
 
 ## RESULT:
-The program successfully determines the faster option between stairs and elevator.
+Thus,the program successfully determines the faster option between stairs and elevator.
